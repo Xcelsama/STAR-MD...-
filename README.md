@@ -24,7 +24,7 @@
   <a href="https://wa.me//+2347045035241" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" "target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+  <a aria-label="STAR-MD is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" "target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 
    
  
@@ -35,7 +35,7 @@
    <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+   <a aria-label="STAR-MD is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
  <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
 
 
@@ -47,10 +47,6 @@
   </a>
 
 
-   
-
- 
-- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
 ## Deployment Methods
 **If You Don't Have Any MongoDB Url Then, Use This Public one.!**
 ```
@@ -59,16 +55,15 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 - *I will Recommend You To Use Your own MongoDB Key So That You Will Not Face any Issue.*
 ##
 
-  ＊SET UP FOR EXCEL-MD-V2
+  ＊SET UP FOR STAR-MD＊
 
-    
-➤FORK THE REPOSITORY (Repo) 
-
+   
+➤FORK THE REPOSITORY (Repo) 
   <br>
 <a href='https://github.com/Xcelsama/STAR-MD/fork' target="_blank"><img alt='FORK REPO' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
-➤  GET SESSION  ID FOR EXCEL-MDX
+➤  GET SESSION  ID FOR STAR-MD
   
     pair May not work...under development 
 <a href='https://replit.com/@HopeAmadi/Excel-mdxpaircode' target="_blank"><img alt='Pair code' src='https://img.shields.io/badge/Pair-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
