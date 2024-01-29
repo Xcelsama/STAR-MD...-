@@ -72,7 +72,7 @@
   },
   "WELCOME_MESSAGE": {
     "description": "Enter the message here which you want to see when a new user joins a Group.",
-       "value": "@user you are welcomed to @gname support me by following
+       "value": "@user you are welcomed to @gname @support me by following
 https://whatsapp.com/channel/0029Va9wmuz8F2pGIURwmo0m",
        "required" :false
   },
