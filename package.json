@@ -1,15 +1,15 @@
 {
-          "name": "Asta-Md",
+          "name": "STAR-MD",
           "version": "4.5.0",
-          "description": "Asta-Md A Whatsapp Bot By Astro",
+          "description": "STAR-MD multi device WhatsApp bot by Excel",
           "main": "lib/client.js",
           "type": "commonjs",
           "license": "GPL-3.0",
           "scripts": {
-                    "start": "pm2 start lib/client.js --deep-monitoring --attach --name Asta-Md",
-                    "stop": "pm2 stop Asta-Md"
+                    "start": "pm2 start lib/client.js --deep-monitoring --attach --name STAR-MD",
+                    "stop": "pm2 stop STAR-Md"
           },
-          "author": "Astro",
+          "author": "EXCEL",
           "dependencies": {
                     "@adiwajshing/keyed-db": "^0.2.4",
                     "@bochilteam/scraper": "latest",
@@ -74,10 +74,10 @@
           },
           "repository": {
                     "type": "git",
-                    "url": "git+https://github.com/Astropeda/Asta-Md.git"
+                    "url": "git+https://github.com/Xcelsama/STAR-MD/STAR-Md.git"
           },
           "bugs": {
-                    "url": "https://github.com/Astropeda/Asta-Md/issues"
+                    "url": "https://github.com/Xcelsama/STAR-MD/STAR-MD/issues"
           },
-          "homepage": "https://github.com/Astropeda/Asta-Md#readme"
+          "homepage": "https://github.com/xcelsama/STAR-MD#readme"
 }
