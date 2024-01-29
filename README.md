@@ -1,7 +1,7 @@
 
-## `STAR-MDX`
+## `STAR-MD`
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=black&center=true&width=900&height=100&lines=Hey (*´∇`)ﾉ I'm STAR-MDX;Multi+Device+Whatsapp+Bot;Developed+By+EXCEL+AMADI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=black&center=true&width=900&height=100&lines=Hey (*´∇`)ﾉ I'm STAR-MD;Multi+Device+Whatsapp+Bot;Developed+By+EXCEL+AMADI" alt="Typing SVG" /></a>
   
 
 
