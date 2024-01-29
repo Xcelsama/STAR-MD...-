@@ -1,53 +1,111 @@
- <h1 align="center"> Asta Md </h1> 
-<p align="center"> Introducing Asta_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
-<p align="center">
-  <a herf="https://leadier-umbrellas.000webhostapp.com/asta-anime3.jpg"></a>
+## `STAR-MDX`
+<div align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ribeye&size=60&pause=1000&color=black&center=true&width=900&height=100&lines=Hey (*´∇`)ﾉ I'm STAR-MDX;Multi+Device+Whatsapp+Bot;Developed+By+EXCEL+AMADI" alt="Typing SVG" /></a>
+  
+
+
+
+
+</h2> 
+<p align="CENTER">𝐓𝐎 𝐋𝐄𝐀𝐑𝐍 𝐇𝐎𝐖 𝐓𝐎 𝐆𝐄𝐓
+𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃
+<p align="CENTER">⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
+
+<p align="CENTER">
+  <a href="https://github.com/Xcelsama/Excel_Tech_Info/blob/main/To%20get%20session%20id"><img title="Learn" src="https://img.shields.io/badge/learn-How-cyan.svg?style=for-the-badge&logo=xcode" /></a>
 </p>
-    
-   
-   
 <p align="center">
-  <a href="https://wa.me/+2348039607375?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Asta-Md+Repo" target="_blank">
+  <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
+    <img alt="Excel-MD V2" height="300" src="https://telegra.ph/file/386d8619aec3a1d9e561b.jpg">
+  </a>
+</p>
+      <p align="center">
+  <a href="https://wa.me//+2347045035241" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Asta_Md is free to use" href="https://github.com/Astropeda/Asta-Md/blob/main/LICENCE" target="_blank">
-    <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
+  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" "target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
+
+   
+ 
+<p align="center">
+<a href='https://chat.whatsapp.com/EjCevQuz0IBIlfUUYLPEB4' 
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
+
+   <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+   <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
+ <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
+
+
+
+  <a
+ href="https://wa.me//+2347045035241"></a>
+</p>
+
   </a>
-  <a aria-label="Asta_Md is free to use" href="https://github.com/Astropeda" target="_blank">
-  </a>
-
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Astropeda}/count.svg" alt="Astropeda:: Visitor's Count" /></p>
-
----
 
 
+   
+
+ 
+- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
+## Deployment Methods
+**If You Don't Have Any MongoDB Url Then, Use This Public one.!**
+```
+mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i
+```
+- *I will Recommend You To Use Your own MongoDB Key So That You Will Not Face any Issue.*
+##
+
+  ＊SET UP FOR EXCEL-MD-V2
+
+    
+➤FORK THE REPOSITORY (Repo) 
 
 
-<p align="center"> ASTA MD whatsapp bot uses
-  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
-</p>
-<p align="center">
-  <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
-</p>
 
----
+➤  GET SESSION  ID FOR EXCEL-MDX
+  
+    pair May not work...under development 
+<a href='https://replit.com/@HopeAmadi/Excel-mdxpaircode' target="_blank"><img alt='Pair code' src='https://img.shields.io/badge/Pair-code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-<p align="center">
-  <a href="https://github.com/Astropeda/Asta-Md"><b>Asta-Md</b></a> Support Deploy On...
-</p>
+<a href='https://replit.com/@HopeAmadi/EXCEL-MD-QR-SCAN-1?v=1/fork' target="_blank"><img alt='SCAN QR-1' src='https://img.shields.io/badge/Scan_qr-1-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=blue'/></a>
 
-<p align="center">
-  <a href="https://github.com/Astropeda/Asta-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
-  <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
-</p>
-<p align="center">
-  <a href="tps://heroku.com/deploy?template=https://github.com/Astropeda/Asta-Md"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
-  <a href=""><img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"></a>
-  <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Astropeda/Asta-Md-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://leadier-umbrellas.000webhostapp.com/asta-anime3.jpg"><img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white"></a>
-</p>
-<p align="center">
-  <a href="https://leadier-umbrellas.000webhostapp.com/asta-anime3.jpg"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
-</p>
-<p align="center">Need help? please create an <a href="https://github.com/Astropeda/Asta-Md/issues">issue</a></p>
+
+＊DEPLOYMENT METHODS
+
+❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
+
+
+- If You don't have a account in Codespace. Create a account.
+    <br>
+
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+Now Deploy
+    <br>
+<a href='https://cautious-goldfish-4j79j464wgxqhwpw.github.dev/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+
+
+
+❍ᗪᗴᑭᒪOY ᗯITᕼ ᖇᗴᑭᒪIT
+
+- If You don't have a account in replit. Create a account.
+    <br>
+<a href='https://replit.com/signup' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
+
+Now Deploy
+    <br>
+<a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>'
+❍ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKᑌ
+If You don't have a account in Heroku. Create a account.
+    <br>
+<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a></p>
+
+  Now Deploy
+    <br>
+<a href='https://dashboard.heroku.com/new?template=https://github.com/Xcelsama/STAR_MDX' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+
+********************************************
+Thanks for all your support💪
